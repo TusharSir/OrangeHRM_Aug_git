@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:25 test_OrangeHRM_url_001 is started
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:27 Opening Browser
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:29 Verifying the page title
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:31 test_OrangeHRM_url_001 is passed, user is landed on correct url
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:34 Taking the screenshot
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:43 Closing the Browser
+[32mINFO    [0m Test_OrangeHRM_Login:test_OrangeHRM_Login.py:45 test_OrangeHRM_url_001 is completed
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:871 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B88749390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/666c5204d89695becfef7f8ebb654ebc
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:871 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B88749CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/666c5204d89695becfef7f8ebb654ebc
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:871 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B8874A3D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/666c5204d89695becfef7f8ebb654ebc

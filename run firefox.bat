@@ -1,0 +1,1 @@
+pytest -v -s -n=4 --html=HTMLReports/myreport.html --alluredir="AllureReports" --disable-warnings --browser firefox -m "sanity and group1"
